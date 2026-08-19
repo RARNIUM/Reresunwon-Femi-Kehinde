@@ -2,7 +2,7 @@
 
 Test Scenario: Verify the hamburger menu opens when clicked.
 
-Precondition: User is on the SauceDemo Products page.
+Precondition: User is on the SauceDemo Hamburger Menu.
 
 Test Data: None
 
@@ -18,11 +18,11 @@ Expected Result: The hamburger menu should open and display the available naviga
 
 *Status: PASS*
 
-## TC-004 -- Verify All Items Navigation ##
+# TC-004 -- Verify All Items Navigation #
 
 Test Scenario: Verify that All Items navigates the user to the Products page.
 
-Precondition: User is on the SauceDemo Products page.
+Precondition: User is on the SauceDemo Hamburger Menu.
 
 Test Data: None
 
@@ -41,13 +41,13 @@ Test Steps:
 *Status: PASS*
 
 
-## TC-005 – Verify that clicking the About option redirects the user to the main Sauce Labs website. ##
+# TC-005 – Verify that clicking the About option redirects the user to the main Sauce Labs website. #
 
 Test Scenario:
 Verify that clicking the About option redirects the user to the main Sauce Labs website.
 
 
-Precondition: User is on the SauceDemo homepage page.
+Precondition: User is on the SauceDemo Hamburger Menu.
 
 Test Data: None
 
@@ -66,13 +66,13 @@ Test Steps:
 
 
 
-## TC-006 – Verify if Log Out Works. ##
+# TC-006 – Verify if Log Out Works. #
 
 Test Scenario:
 Verify that the user can successfully log out of SauceDemo.
 
 
-Precondition: User is on the SauceDemo Products page.
+Precondition: User is on the SauceDemo Hamburger Menu.
 
 Test Data: None
 
@@ -90,13 +90,13 @@ Test Steps:
 
 *Status: PASS*
 
-## TC-007 – Verify if Reset APP STATE Works. ##
+# TC-007 – Verify if Reset APP STATE Works. #
 
 Test Scenario:
 Verify that the Reset App State option resets the application to its initial state.
 
 
-Precondition: User is on the SauceDemo Products page and resets after picking Product.
+Precondition: User is on the SauceDemo Hamburger Menu and resets after picking Product.
 
 Test Data: None
 
@@ -113,3 +113,27 @@ Test Steps:
 *Actual Result*: The whole page gets reset and removes products from cart.
 
 *Status: PASS*
+
+
+# TC-008 – Verify if Hamburger Menu closes #
+
+Test Scenario: Verify the hamburger menu closes.
+
+Precondition: User is on the SauceDemo Hamburger Menu.
+
+Test Data: None
+
+Test Steps:
+
+1.Click the Hamburger Menu.
+
+2.Click the X button on the top right corner of the Hamburger Menu
+
+
+Expected Result: The hamburger menu should close when X button on the top right corner of the Menu is clicked.
+
+
+*Actual Result*: The hamburger menu closed when X button on the top right corner of the Menu is clicked.
+
+*Status: PASS*
+
