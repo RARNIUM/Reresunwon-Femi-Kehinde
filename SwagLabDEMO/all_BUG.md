@@ -16,12 +16,18 @@ User is logged in and has added a product to the cart.
 
 **Steps to Reproduce:**
 
-Log in to SauceDemo.
-Add any product to the cart.
-Confirm that the button changes from Add to Cart to Remove.
-Open the hamburger menu (☰).
-Click Reset App State.
-Return to the Products page.
+1.Log in to SauceDemo.
+
+2.Add any product to the cart.
+
+3.Confirm that the button changes from Add to Cart to Remove.
+
+4.Open the hamburger menu (☰).
+
+5.Click Reset App State.
+
+6.Return to the Products page.
+
 
 *Expected Result:*
 The application should reset completely. The product button should change from Remove back to Add to Cart.
