@@ -1,4 +1,5 @@
-TC-003 – Verify Login with Valid Credentials
+TC-003 – Verify if Hamburger Menu opens
+
 Test Scenario: Verify the hamburger menu opens when clicked.
 
 Precondition: User is on the SauceDemo home page.
