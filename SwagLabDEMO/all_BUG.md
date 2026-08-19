@@ -1,4 +1,4 @@
-### BUG-001 – Reset App State does not reset product button ###
+## BUG-001 – Reset App State does not reset product button ##
 
 Title: Add to Cart button remains as "Remove" after resetting app state
 
