@@ -89,3 +89,27 @@ Test Steps:
 *Actual Result*: The user should be redirected to the official Sauce Labs website.
 
 *Status: PASS*
+
+## TC-007 – Verify if Reset APP STATE Works. ##
+
+Test Scenario:
+Verify that the Reset App State option resets the application to its initial state.
+
+
+Precondition: User is on the SauceDemo Products page and resets after picking Product.
+
+Test Data: None
+
+Test Steps:
+
+1.Open Hamburger Menu.
+
+
+
+2.Click Reset App State.
+
+*Expected Result*: The whole page gets reset and removes products from cart.
+
+*Actual Result*: The whole page gets reset and removes products from cart.
+
+*Status: PASS*
