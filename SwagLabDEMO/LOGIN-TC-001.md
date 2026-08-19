@@ -46,10 +46,12 @@ Password: `wrongpassword`
 
 *Expected Result:*
 An error message should be displayed and the user should remain on the login page
+
 Error message: Username and password do not match any user in this service
 
 *Actual Result:*
 An error message was displayed and the user remained on the login page.
+
 Error message: Username and password do not match any user in this service
 
 *Status:* PASS
