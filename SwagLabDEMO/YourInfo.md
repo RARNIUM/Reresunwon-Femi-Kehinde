@@ -1,4 +1,4 @@
-## TC-001 – Verify if valid information is stored
+## TC-011 – Verify if valid information is stored
 
 *Test Scenario:*
 Verify that a registered user can see their information in overview.
