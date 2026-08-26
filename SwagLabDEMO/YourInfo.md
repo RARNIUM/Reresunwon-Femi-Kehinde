@@ -7,9 +7,9 @@ Verify that a registered user can see their information in overview.
 User is on the CheckOut: Your Information page.
 
 *Test Data:*
-First name :JAMES
-Last name : BOND
-Postal Code : 007
+1. First name :JAMES
+2. Last name : BOND
+3. Postal Code : 007
 
 *Test Steps:*
 
