@@ -1,4 +1,4 @@
-## TC-001 – Verify if Product added to cart are checked out
+## TC-010 – Verify if Product added to cart are checked out
 
 *Test Scenario:*
 Verify that a registered user can check out their product.
